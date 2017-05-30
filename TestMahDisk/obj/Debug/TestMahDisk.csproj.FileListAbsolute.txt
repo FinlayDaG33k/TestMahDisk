@@ -1,0 +1,42 @@
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\bin\Debug\TestMahDisk.exe.config
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\bin\Debug\TestMahDisk.exe
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\bin\Debug\TestMahDisk.pdb
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\MainWindow.g.cs
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\App.g.cs
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk_MarkupCompile.cache
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk_MarkupCompile.lref
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\MainWindow.baml
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.g.resources
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.Properties.Resources.resources
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.csproj.GenerateResource.Cache
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.exe
+g:\documents\visual studio 2017\Projects\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.pdb
+I:\VisualStudio\TestMahDisk\TestMahDisk\bin\Debug\TestMahDisk.exe.config
+I:\VisualStudio\TestMahDisk\TestMahDisk\bin\Debug\TestMahDisk.exe
+I:\VisualStudio\TestMahDisk\TestMahDisk\bin\Debug\TestMahDisk.pdb
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.csprojResolveAssemblyReference.cache
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\MainWindow.g.cs
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\App.g.cs
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk_MarkupCompile.cache
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk_MarkupCompile.lref
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\MainWindow.baml
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.g.resources
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.Properties.Resources.resources
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.csproj.GenerateResource.Cache
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.exe
+I:\VisualStudio\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.pdb
+I:\TestMahDisk\TestMahDisk\bin\Debug\TestMahDrive.exe.config
+I:\TestMahDisk\TestMahDisk\bin\Debug\TestMahDrive.exe
+I:\TestMahDisk\TestMahDisk\bin\Debug\TestMahDrive.pdb
+I:\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.csprojResolveAssemblyReference.cache
+I:\TestMahDisk\TestMahDisk\obj\Debug\MainWindow.g.cs
+I:\TestMahDisk\TestMahDisk\obj\Debug\App.g.cs
+I:\TestMahDisk\TestMahDisk\obj\Debug\TestMahDrive_MarkupCompile.cache
+I:\TestMahDisk\TestMahDisk\obj\Debug\TestMahDrive_MarkupCompile.lref
+I:\TestMahDisk\TestMahDisk\obj\Debug\MainWindow.baml
+I:\TestMahDisk\TestMahDisk\obj\Debug\TestMahDrive.g.resources
+I:\TestMahDisk\TestMahDisk\obj\Debug\TestMahDrive.Properties.Resources.resources
+I:\TestMahDisk\TestMahDisk\obj\Debug\TestMahDisk.csproj.GenerateResource.Cache
+I:\TestMahDisk\TestMahDisk\obj\Debug\TestMahDrive.exe
+I:\TestMahDisk\TestMahDisk\obj\Debug\TestMahDrive.pdb
